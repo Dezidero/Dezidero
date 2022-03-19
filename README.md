@@ -20,6 +20,10 @@ Here are some ideas to get you started:
 </h1>
 
 <div style:="display: inline_block">
-  <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.14.0/devicon.min.css">
+ <h1> Linguagens </h1>
+  <img align="center" alt="aqui tem um código de JS" height="30" widht="40"
+  src="<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.14.0/devicon.min.css">"     
+  
+  
 </div> 
   
