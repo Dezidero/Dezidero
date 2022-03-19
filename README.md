@@ -15,6 +15,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<div align="center">
+  <img src"https://media0.giphy.com/media/V4NSR1NG2p0KeJJyr5/giphy.gif?cid=ecf05e472tqy19av5behy01gzt45h8vx8qusuudj8luqmywh&rid=giphy.gif&ct=g" width="300px"
+</div>
+
 <h1>
   Meu Perfil de Estudos de <strong> Java Script </strong>
 </h1>
