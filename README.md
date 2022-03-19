@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 <div style:="display: inline_block">
  <h1> Linguagens </h1>
   <img align="center" alt="aqui tem um código de JS" height="30" widht="40"
-  "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />"     
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />"     
   
   
 </div> 
