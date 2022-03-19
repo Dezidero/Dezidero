@@ -1,4 +1,4 @@
-### Hi there 👋
+
 
 <!--
 **Dezidero/Dezidero** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -19,7 +19,7 @@ Here are some ideas to get you started:
   Meu Perfil de Estudos de <strong> Java Script </strong>
 </h1>
 
-<div>
+<div style:="display: inline_block">
   <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.14.0/devicon.min.css">
 </div> 
   
